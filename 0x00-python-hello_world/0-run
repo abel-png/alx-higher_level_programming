@@ -1,2 +1,3 @@
 #!/bin/bash
-python3 <<<$PYFILE
+# Runs a python script
+python3 $PYFILE
